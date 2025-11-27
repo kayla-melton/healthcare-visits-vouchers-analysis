@@ -1,0 +1,99 @@
+﻿condition_id,condition_name
+1,Hypertension
+2,Diabetes
+3,Asthma
+4,COPD
+5,Anxiety
+6,Depression
+7,Bipolar Disorder
+8,PTSD
+9,Osteoarthritis
+10,Rheumatoid Arthritis
+11,Migraine
+12,Epilepsy
+13,Heart Failure
+14,Atrial Fibrillation
+15,Coronary Artery Disease
+16,Hyperlipidemia
+17,Obesity
+18,Hypothyroidism
+19,Hyperthyroidism
+20,GERD
+21,Peptic Ulcer
+22,Cholelithiasis
+23,Hepatitis A
+24,Hepatitis B
+25,Hepatitis C
+26,Pneumonia
+27,Bronchitis
+28,Tuberculosis
+29,Sinusitis
+30,Otitis Media
+31,Allergic Rhinitis
+32,Eczema
+33,Psoriasis
+34,Dermatitis
+35,Urinary Tract Infection
+36,Kidney Stones
+37,Chronic Kidney Disease
+38,Anemia
+39,Leukemia
+40,Lymphoma
+41,Breast Cancer
+42,Prostate Cancer
+43,Colon Cancer
+44,Skin Cancer
+45,Pancreatitis
+46,Appendicitis
+47,Diverticulitis
+48,Irritable Bowel Syndrome
+49,Crohn's Disease
+50,Ulcerative Colitis
+51,Celiac Disease
+52,Food Poisoning
+53,COVID-19
+54,Influenza
+55,Strep Throat
+56,Mononucleosis
+57,Tonsillitis
+58,Herpes Simplex
+59,Shingles
+60,HIV/AIDS
+61,Malaria
+62,Lyme Disease
+63,Dengue Fever
+64,Zika
+65,Measles
+66,Mumps
+67,Rubella
+68,Chickenpox
+69,Whooping Cough
+70,Tetanus
+71,Botulism
+72,Sepsis
+73,Endocarditis
+74,Meningitis
+75,Encephalitis
+76,Glaucoma
+77,Cataracts
+78,Macular Degeneration
+79,Diabetic Retinopathy
+80,Fracture
+81,Sprain
+82,Strain
+83,Burn
+84,Concussion
+85,Traumatic Brain Injury
+86,Autism
+87,ADHD
+88,Alzheimer's
+89,Parkinson's
+90,Multiple Sclerosis
+91,ALS
+92,Sickle Cell Disease
+93,Hemophilia
+94,Thrombocytopenia
+95,Preeclampsia
+96,Gestational Diabetes
+97,Preterm Labor
+98,Infertility
